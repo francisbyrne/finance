@@ -1,0 +1,13 @@
+node_modules/
+.npm-debug.log
+npm-debug.log
+.DS_Store
+local-settings/
+dump/
+dump.rdb
+*.map
+tests_output/
+.idea/
+.atomignore
+docker-compose.yml
+logs/*

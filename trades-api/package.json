@@ -1,0 +1,43 @@
+{
+  "name": "trades-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API for uploading and retrieving trades.",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisbyrne/trades-api.git"
+  },
+  "author": "Francis Byrne",
+  "bugs": {
+    "url": "https://github.com/francisbyrne/trades-api/issues"
+  },
+  "homepage": "https://github.com/francisbyrne/trades-api",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.2"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^3.3.0",
+    "forever": "^0.15.3"
+  },
+  "keywords": [
+    "finance",
+    "trades",
+    "shares",
+    "stocks",
+    "personal",
+    "finance",
+    "networth",
+    "portfolio"
+  ],
+  "license": "ISC"
+}
